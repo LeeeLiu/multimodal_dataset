@@ -1,0 +1,5 @@
+Original Question:
+Provide personalized stock recommendations for individual investors.
+
+Rephrased Question (SD):
+The image shows a phrase of a service. Provide personalized offerings for individual investors related to this service.
