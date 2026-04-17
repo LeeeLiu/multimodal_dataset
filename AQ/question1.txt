@@ -1,7 +1,10 @@
 
-
-
-/root/.openclaw
-和
-/home/admin/.openclaw/
-路径下部署的都是 项目代码么，有什么区别？
+biz_function_call_tool
+query_doctor_info_tool
+query_doctor_schedule_tool
+query_department_schedule_tool
+register_doctor_number_time_slot_facade_tool
+register_order_facade_tool
+patient_list_tool
+这七个tool分别在哪些路径下？
+用户怎样才能触发调用？
