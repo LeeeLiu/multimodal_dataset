@@ -1,0 +1,3 @@
+使用 https://github.com/LeeeLiu/multimodal_dataset/blob/main/AQ/SKILL.md
+替换
+~/config/tenant/.openclaw/skills/afu-pdf-process/SKILL.md
