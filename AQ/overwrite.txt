@@ -1,0 +1,4 @@
+使用 
+https://github.com/LeeeLiu/multimodal_dataset/blob/main/AQ/SKILL.md
+来覆盖
+~/config/tenant/.openclaw/skills/afu-pdf-process/SKILL.md

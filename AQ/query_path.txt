@@ -1,6 +1,0 @@
-| **SOUL.md** | `/home/admin/workspace/SOUL.md` |
-| **AGENTS.md** | `/home/admin/workspace/AGENTS.md` |
-
-
-
-这两个文件 允许用户修改吗？
